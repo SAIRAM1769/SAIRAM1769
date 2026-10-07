@@ -1,16 +1,58 @@
-## Hi there 👋
+Hi 👋, I'm S. Sairam
+🎓 B.Tech CSE Student | Aspiring Software Developer
 
-<!--
-**SAIRAM1769/SAIRAM1769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year B.Tech Computer Science and Engineering student at Mother Teresa Institute of Engineering and Technology.
 
-Here are some ideas to get you started:
+I'm passionate about software development and continuously working on improving my programming and web development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+🎓 4th-year B.Tech CSE student
+
+💻 Interested in software development
+
+🌱 Currently improving my programming and web development skills
+
+🎯 Career goal: Become an expert software developer
+
+📍 Palamaner, Andhra Pradesh, India
+
+🛠️ Skills
+
+☕ Java
+
+🌐 HTML
+
+🎨 CSS
+
+⚡ JavaScript
+
+📚 Currently Learning
+
+Advanced Java
+
+Web Development
+
+Data Structures and Algorithms
+
+Software Development Practices
+
+🚀 Goals
+
+Build real-world software projects
+
+Improve my problem-solving skills
+
+Contribute to open-source projects
+
+Become a highly skilled software developer
+
+📈 My GitHub Journey
+
+I'm currently building my GitHub portfolio and looking forward to adding more projects as I continue learning and developing my skills.
+
+🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and connecting with fellow developers and technology enthusiasts.
+
+⭐ Thanks for visiting my profile!   
